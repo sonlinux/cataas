@@ -34,7 +34,7 @@ def handler500(request):
 
 
 urlpatterns = [
-    url(r'^cats/$', CataasClient.as_view(), name='home'),
+    url(r'^$', CataasClient.as_view(), name='home'),
     url(r'^site-admin/', include(admin.site.urls)),
     url(r'^grappelli/', include('grappelli.urls')),
     url(r'^accounts/', include('allauth.urls')),
