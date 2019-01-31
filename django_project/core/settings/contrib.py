@@ -14,7 +14,8 @@ INSTALLED_APPS = (
 INSTALLED_APPS += (
     'widget_tweaks',  # lets us add some bootstrap css to form elements
     'easy_thumbnails',
-    'rest_framework', # used for API
+    'rest_framework',  # used for API
+    'crispy_forms',
 )
 
 REST_FRAMEWORK = {
