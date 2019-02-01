@@ -6,7 +6,6 @@ import sys
 from subprocess import Popen, PIPE
 
 __author__ = 'Alison Mukoma <mukomalison@gmail.com, sonlinux>'
-__copyright__ = "3yourmind.com"
 __license__ = "MIT"
 __email__ = "mukomalison@gmail.com"
 __revision__ = '$Format:%H$'
