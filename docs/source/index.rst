@@ -1,10 +1,12 @@
 
-A GitHub repository synchronizer
+A client for CATAAS API
 ===============================
 
-A simple django app to allow Syncing of github repos using dropbox client API and storing them in dropbox as dirs.
+A simple django app to allow users to enter a cat tag in a search form and
+request for images related to that tag.
+
 Some notes:
 -----------
 
 
-Alison Mukoma, May 2018
+Alison Mukoma, February 2019

@@ -13,7 +13,7 @@ site has been deployed under docker. Three deployment modes are supported:
   this DJANGO_SETTINGS_MODULE is used when running in production mode. Please see
   README-dev.md for more information on setting up a developer environment.
 
-**Note:** We really recommend that you use docker 1.8 or greatr so that you
+**Note:** I really recommend that you use docker 1.8 or greater so that you
   can take advantage of the exec command as well as other newer features.
 
 ## Build your docker images and run them
@@ -111,7 +111,7 @@ sudo /etc/init.d/nginx restart
 ```
 
 **Note that the default configuration runs the service directly on port 80 since
-we assume there is a dedicated server for deployment.**
+I assume there is a dedicated server for deployment.**
 
 # Configuration options
 
